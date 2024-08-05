@@ -5,7 +5,7 @@ import Destino from './Destino';
 
 function App() {
   const destinos = [
-    { nome: 'Paris', descricao: 'A cidade do amor.' },
+    { nome: 'Paris', descricao: 'A cidade do amor..' },
     { nome: 'Nova York', descricao: 'A cidade que nunca dorme.' },
     { nome: 'Tóquio', descricao: 'A capital do Japão.' }
   ];
