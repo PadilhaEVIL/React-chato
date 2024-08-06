@@ -20,7 +20,7 @@ const Destinos = () => {
 
   const adicionarDestino = (novoDestino) => {
     setDestinos([...destinos, novoDestino]);
-  };
+  };  
 
   return (
     <div className="App">
